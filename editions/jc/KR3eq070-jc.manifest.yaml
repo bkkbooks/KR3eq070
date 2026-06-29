@@ -1,0 +1,73 @@
+canonical_identifier: bkk:krp/KR3eq070/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq070/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 留香館醫話
+  identifiers:
+    krp: KR3eq070
+  tags:
+    kr-categories: KR3eq
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq070.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq070_000-jc.yaml, hash: 'sha256:343f98a1d40ffcf67c8d3a8e81a215e6f8e77b3fd302b691d523ecf21cb97652'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq070_000-jc.markers.yaml, hash: 'sha256:94333928cc03ed594331d22ca20fbb10a973a9438e4f6c65140e2c53680e530b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq070_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 152
+  label: 孫序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq070_jc_000-d3.h1s1
+    span:
+    - front
+    - 152
+    - 414
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq070_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 12845
+  label: 留香館醫話
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq070_jc_000-d5.h1s1
+    span:
+    - body
+    - 12845
+    - 15801
+  label: 附
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq070_jc_000-d5d2
+    span:
+    - body
+    - 12846
+    - 15801
+  label: 最近醫案
+  type: section
+  level: 2
+hash: sha256:ffae146386a61a230058ed5c548d68488b25a15b4ba6687016f3a26356dd8583
