@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq070_000.yaml, hash: 'sha256:28be00518b3031607f152e53a4397d8fee7fd1ba253dacac05b43cb23b41dba6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq070_000.markers.yaml, hash: 'sha256:2d2ccc4f37f1f480c773349698f0938ae8259e35d42da5c1f4f71586bda03c13'}
+  - {seq: 0, role: markers, filename: assets/KR3eq070_000.markers.yaml, hash: 'sha256:5928c809491280522caac20c11f7325a119c3a9a95de2bac7ae1b472c4ffa475'}
 table_of_contents:
 - ref:
     seq: 0
@@ -70,7 +70,7 @@ table_of_contents:
   label: 最近醫案
   type: section
   level: 2
-hash: sha256:d21c4710459a979dd4e35c2627496219b01930aae8e8f44a96234a3d52b93275
+hash: sha256:ac866eb10a7b28662abea07de5f886594b6e084358a58780f9ac68a3d794337f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
